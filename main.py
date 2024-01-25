@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import pytz
 
 token = '6685045831:AAGf9AwyO1U08O90otaWvh6VPmcXr4L9jeo'
-chat_id = '-1002077325274'
+chat_id = '-1002123702294'
 bot = telebot.TeleBot(token)
 
 # Definir o fuso horário para São Paulo
@@ -54,7 +54,7 @@ while True:
 
 {matrix_str}
 
-<a href="https://galaxwin.bet?c=Pedrocardoso">👉Cadastre-se & Jogue👈</a>
+<a href="https://galaxwin.bet/?c=graufaisca">👉Cadastre-se & Jogue👈</a>
 '''
 
         msg = f'''🔷🔹 <b>Entrada Finalizada</b> 🔹🔷
